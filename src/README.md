@@ -9,5 +9,6 @@ A simple static code analyzer written in Rust. Scans `.rs` files for unsafe patt
 - Outputs log to console and markdown report
 
 ## Usage
+Compile and Run:
 ```bash
-cargo run path/to/target.rs
+cargo run target.rs
